@@ -1,0 +1,13 @@
+{
+  "name": "cf-api-restful",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Práctica 5: API RESTful de sensores y mediciones con Express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "5.1.0"
+  }
+}
